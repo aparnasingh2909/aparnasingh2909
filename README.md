@@ -1,16 +1,7 @@
 ### Hello, I am Aparna Singh👋
 
-<!--
-**aparnasingh2909/aparnasingh2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning competitive programming, android development and web development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn:https://www.linkedin.com/in/aparna-singh-8757a71b8 , Instagram:https://www.instagram.com/aparna_singh_2909/ 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning competitive programming.
+  ⚡  Persuing B Tech. (Computer Science) at SRMGPC,Lucknow
+- 📫 How to reach me: LinkedIn:https://www.linkedin.com/in/aparna-singh-8757a71b8 , Instagram:https://www.instagram.com/aparna_singh_2909/
 -->
